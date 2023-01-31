@@ -45,3 +45,10 @@ module.exports = {
   plugins: [require("daisyui")],
 }
 ```
+
+## How install react-aria
+### Step 1: Install react-aria:
+
+```
+npm i react-aria
+```
