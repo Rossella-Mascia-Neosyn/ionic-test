@@ -30,3 +30,18 @@ module.exports = {
 @tailwind components;
 @tailwind utilities;
 ```
+
+## How install Daisy-ui
+##### This repo using [Daisy-ui](https://daisyui.com/).
+
+### Step 1: Install Daisy-ui:
+```
+npm i daisyui
+```
+### Step 2: Then add daisyUI to your tailwind.config.js files:
+```
+module.exports = {
+  //...
+  plugins: [require("daisyui")],
+}
+```
