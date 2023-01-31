@@ -1,5 +1,13 @@
 # Ionic test
 
+## How use cli ionic
+```
+npm install -g @ionic/cli
+```
+```
+ionic start
+```
+
 ## How install tailwind
 
 ### Step 1: Install Tailwind CSS
